@@ -17,3 +17,6 @@ The use and the management of externally provided IP blocklists with OPNsense is
 
 
 https://www.allthingstech.ch/using-opnsense-and-ip-blocklists-to-block-malicious-traffic
+
+to add this list
+https://raw.githubusercontent.com/MiniFido/ip-blocklist/d34170343bb9a83f9771da710927d3ecc66de9ce/blocklist.txt
